@@ -195,6 +195,7 @@ nav a:hover {
 /* Sections */
 
 section {
+    position: relative;
     padding-top: 4vh;
     height: 96vh;
     margin: 0 10rem;
