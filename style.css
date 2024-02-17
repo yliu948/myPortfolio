@@ -404,6 +404,21 @@ article .icon {
 
 /* Projects Section */
 
+.project-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  
+}
+.project-container .details-container{
+    
+    max-width:25%;
+    margin: 10px
+}
+
+
 #projects {
     position: relative;
 }

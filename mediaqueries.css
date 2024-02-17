@@ -39,9 +39,16 @@
     .about-containers {
         margin-top: 0;
     }
+    .project-container .experience-sub-title{
+        font-size: 1.3em;
+    }
+    
 }
 
 @media screen and (max-width: 600px) {
+    .project-container .experience-sub-title{
+        font-size: 1em;
+    }
     #contact, footer {
         height: 40vh;
 
@@ -91,4 +98,5 @@
     .text-container {
         text-align: justify;
     }
+    
 }
